@@ -1,0 +1,8 @@
+.label{-fx-font: 12pt "Arial";}
+#default{
+
+    -fx-background-color: #FFFFFF;
+}
+#known{
+    -fx-background-color: #00CC66;
+}
